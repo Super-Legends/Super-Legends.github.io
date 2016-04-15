@@ -1,0 +1,16 @@
+# Site Settings
+header: "SUPER-LEGENDS"
+title: "Super Legends of Education"
+
+baseurl: "/"
+url: "http://superlegendsofeducation.org"
+
+# Build settings
+markdown: kramdown
+
+# Asset Settings
+post_assets:			assets/posts
+general_assets:			assets/general
+
+# Google Analytics
+ga_tracking_id: "UA-76456621-1"
